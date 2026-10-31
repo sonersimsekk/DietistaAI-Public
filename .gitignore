@@ -1,0 +1,22 @@
+# Environment variables and secrets
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Generated output
+dist/
+build/
+coverage/
+
+# Logs and editor files
+*.log
+.DS_Store
+.idea/
+.vscode/
