@@ -151,7 +151,7 @@ AI features require a working backend and valid OpenRouter credentials; non-AI p
 **Soner Şimşek**
 
 - [GitHub](https://github.com/sonersimsekk)
-- [LinkedIn](https://www.linkedin.com/in/sonersimsekk1)
+- [LinkedIn](https://www.linkedin.com/in/soner-şimşek-653357273)
 
 ---
 
